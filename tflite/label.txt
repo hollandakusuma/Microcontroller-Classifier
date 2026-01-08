@@ -1,0 +1,10 @@
+Arduino Mega
+Arduino Nano
+Arduino Pro Mini
+Arduino Uno
+ESP32 CAM
+ESP32 DEV KIT V1
+RASP PI
+Sparkfun ESP32 Thing
+Wemos D1
+Wemos D1 Mini
